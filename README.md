@@ -1,6 +1,6 @@
 # <p align="center"> SWIPE-TO-REFRESH APP </p>
 
-## Uygulama Özellikleri
+## 💻 Uygulama Özellikleri
 
 **Çekme Yenileme**: Kullanıcılar, listeyi aşağı kaydırarak verileri hızlı ve kolay bir şekilde yenileyebilir.
 
@@ -70,5 +70,5 @@ plugins {
 Projeyi bilgisayarınıza klonlamak için aşağıdaki komutu kullanın:
 
 ```bash
-git clone https://github.com/oktayGnc/SwipeRefreshLayout
+git clone https://github.com/oktyGnc/SwipeRefreshLayout
 ```
